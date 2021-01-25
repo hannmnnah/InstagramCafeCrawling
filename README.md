@@ -23,7 +23,7 @@ IMAGE to
 
 ## Architecture
 
-![architecture](https://user-images.githubusercontent.com/72846750/105701176-446c4980-5f4d-11eb-906c-ca0f9a708441.png)
+<img src="https://user-images.githubusercontent.com/72846750/105701176-446c4980-5f4d-11eb-906c-ca0f9a708441.png" width="300" height="200"/>
 
 ![테스트12](https://user-images.githubusercontent.com/42338386/105575023-bb69dc80-5dab-11eb-8856-2cc0e49d1fc1.gif)
 

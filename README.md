@@ -1,5 +1,13 @@
 # 서울 카페 지도 & 챗봇
 
+## 목차
+1. 프로젝트 소개
+2. Keyword
+3. 결과물
+4. 구조도
+5. 실행과정 
+
+
 ## 프로젝트 소개
 __#카페스타그램__ 은 __'소비자의 카페 소비 모습을 보여준다'__ 라는 아이디어에서 시작된 프로젝트입니다. 
 
@@ -13,26 +21,17 @@ __#카페스타그램__ 은 __'소비자의 카페 소비 모습을 보여준다
 ## Keyword
 __Instagram crawling, MongDB,Flask, AWS, Naive Bayes classifier, Google Vision API, Selenium, Kakao map API__
 
-
-## 목차
-1. 프로젝트 소개
-2. 결과물
-3. 구조도
-4. 실행과정 
-
-데이터 수집 -> 구글비전, 몽고디비, 나이브베이지안, popular -> 플라스크
+## Result
 
 
-- selenium
-  - 
+<img width='50%' src='https://user-images.githubusercontent.com/42338386/105575023-bb69dc80-5dab-11eb-8856-2cc0e49d1fc1.gif'>
+
+<img width='50%' src='https://user-images.githubusercontent.com/42338386/105578468-c7619880-5dc3-11eb-9a04-e7943c601fd8.gif'>
+
 
 
 ## Architecture
 
 <img src="https://user-images.githubusercontent.com/72846750/105801786-40880800-5fdd-11eb-8ca0-d878457cb5e8.png" width="700" height="900"/>
 
-![테스트12](https://user-images.githubusercontent.com/42338386/105575023-bb69dc80-5dab-11eb-8856-2cc0e49d1fc1.gif)
-
-
-![슬랙](https://user-images.githubusercontent.com/42338386/105578468-c7619880-5dc3-11eb-9a04-e7943c601fd8.gif)
 

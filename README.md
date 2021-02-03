@@ -32,6 +32,6 @@ __Instagram crawling, MongDB,Flask, AWS, Naive Bayes classifier, Google Vision A
 
 ## Architecture
 
-<img src="https://user-images.githubusercontent.com/72846750/105801786-40880800-5fdd-11eb-8ca0-d878457cb5e8.png" width="700" height="900"/>
+<img src="https://user-images.githubusercontent.com/72846750/105801786-40880800-5fdd-11eb-8ca0-d878457cb5e8.png" width="70%">
 
 

@@ -1,11 +1,17 @@
 # 서울 카페 지도 & 챗봇
 
 ## 프로젝트 소개
-인스타그램 카페 게시글 속엔 데이터가 숨어있다?  
-구글 비전으로 이미지 데이터를 읽고 카페를 분류함.
+__#카페스타그램__ 은 __'소비자의 카페 소비 모습을 보여준다'__ 라는 아이디어에서 시작된 프로젝트입니다. 
 
-IMAGE to 
+<img src="https://user-images.githubusercontent.com/42338386/106738618-7ff8c900-665b-11eb-9abc-f042b629643f.png" width='50%'>
 
+카페 mk2에 방문한 이들은 위와 같은 패턴화된 게시글을 업로드합니다.  
+공사장 느낌, 통창, 서촌카페'의 특징을 가진 카페는 mk2뿐일까요?  
+  
+본 팀은 인스타그램 게시글을 크롤링하고 raw data에서 DATA를 도출하여 카페를 분류하였습니다.
+  
+## Keyword
+__Instagram crawling, MongDB,Flask, AWS, Naive Bayes classifier, Google Vision API, Selenium, Kakao map API__
 
 
 ## 목차

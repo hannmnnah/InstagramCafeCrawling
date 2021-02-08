@@ -31,7 +31,7 @@ __Instagram crawling, MongDB,Flask, AWS, Multinominal Naive Bayes, Google Vision
 
 ## 카페 분류 구조
 
-<img src="https://user-images.githubusercontent.com/42338386/107238194-e8d0ae80-6a6a-11eb-8e26-a172adf4712c.png" width="70%">
+<img src="https://user-images.githubusercontent.com/42338386/107239567-54674b80-6a6c-11eb-9857-d32f127a5032.jpg" width="70%">
 
 ## 프로젝트 
 

@@ -25,7 +25,7 @@ __서울 카페 챗봇__
 
    
 ## Keyword
-__Instagram crawling, MongDB,Flask, AWS, Naive Bayes classifier, Google Vision API, Selenium, Kakao map API__
+__Instagram crawling, MongDB,Flask, AWS, Multinominal Naive Bayes, Google Vision API, BS4,Selenium, Kakao map API__
 
 
 
@@ -35,22 +35,28 @@ __Instagram crawling, MongDB,Flask, AWS, Naive Bayes classifier, Google Vision A
 
 ## 프로젝트 과정
 
-### #카페스타그램 크롤링 | Selenium, AWS, boto3
+### #카페스타그램 크롤링 | BS4, Selenium, AWS, boto3
 #카페스타그램은 해당 카페의 분위기와 시그니처 메뉴같은 대략의 데이터를 내포하고 있습니다.  
 사람 얼굴이 포함되지 않은 사진, 해시태그, 좋아요 수 등을 셀레니움을 통해 크롤링했습니다.
 인스타그램은 ip, id를 기반으로 수상한 유저를 검출하여 접근을 막습니다. 
-우리는 AWS를 통해 ip를 우회하고, 
+우리는 boto3, AWS를 통해 ip를 우회하여 크롤링을 진행하였습니다.
 
-
-### 이미지에서 데이터 검출 | Google Vision API, Naive Bayes 모델  
-이미지의 패턴을 ~하기 위해 Google Vision API를 통해 
-
-
-
-   
 <img src="https://user-images.githubusercontent.com/42338386/106738618-7ff8c900-665b-11eb-9abc-f042b629643f.png" width='50%'>
 
-우리는 
+
+### 이미지에서 카페 패턴, 분위기 검출 | Google Vision API, MultinominalNaive Bayes 모델  
+이미지의 패턴을 ~하기 위해 Google Vision API를 통해 이미지 Labels를 추출하였습니다.
+추출된 Labels는 Naive Bayes 모델을 통해 View 맛집과 Menu 맛집으로 분류하였습니다.
+
+### 서울 카페 지도 | Flask, Kakao map API
+kakao map api를 통해 만든 html페이지를 Flask로 구현하였습니다. 
+
+## 카페 챗봇 | Flask, Slack API 
+Slack api를 통해  Flask로 구현하였습니다. 
+   
+
+
+
 
 
 

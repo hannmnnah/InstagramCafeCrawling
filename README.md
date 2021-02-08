@@ -48,11 +48,11 @@ __Instagram crawling, MongDB,Flask, AWS, Multinominal Naive Bayes, Google Vision
 이미지의 패턴을 ~하기 위해 Google Vision API를 통해 이미지 Labels를 추출하였습니다.
 추출된 Labels는 Naive Bayes 모델을 통해 View 맛집과 Menu 맛집으로 분류하였습니다.
 
-### 서울 카페 지도 | Flask, Kakao map API
-kakao map api를 통해 만든 html페이지를 Flask로 구현하였습니다. 
+### 서울 카페 지도 | HTML, Flask, Kakao map API
+kakao map api를 활용하여 지도에 마커를 추가하고 카페 위경도와 대표메뉴, 영업시간 등을 입력하였습니다,또한 마우스 클릭시 팝업창을 띄우는 코드를 구현하였습니다. 
 
 ### 카페 챗봇 | Flask, Slack API 
-Slack api를 통해  Flask로 구현하였습니다. 
+Slack api와 flask 사용하여 슬랙메시지로 지역명과 명령문(뷰맛집, 디저트맛집) 입력시 카페명을 알려주는 코드를 구현하였습니다.
    
 
 

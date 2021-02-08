@@ -44,7 +44,7 @@ __Instagram crawling, MongDB,Flask, AWS, Multinominal Naive Bayes, Google Vision
 <img src="https://user-images.githubusercontent.com/42338386/106738618-7ff8c900-665b-11eb-9abc-f042b629643f.png" width='70%'>
 
 
-### 이미지에서 카페 패턴, 분위기 검출 | Google Vision API, MultinominalNaive Bayes 모델  
+### 이미지에서 카페 패턴, 분위기 검출 | Google Vision API, Multinominal Naive Bayes 모델  
 이미지의 패턴을 ~하기 위해 Google Vision API를 통해 이미지 Labels를 추출하였습니다.
 추출된 Labels는 Naive Bayes 모델을 통해 View 맛집과 Menu 맛집으로 분류하였습니다.
 

@@ -33,7 +33,7 @@ __Instagram crawling, MongDB,Flask, AWS, Multinominal Naive Bayes, Google Vision
 
 <img src="https://user-images.githubusercontent.com/72846750/105801786-40880800-5fdd-11eb-8ca0-d878457cb5e8.png" width="70%">
 
-## 프로젝트 과정
+## 프로젝트 
 
 ### #카페스타그램 크롤링 | BS4, Selenium, AWS, boto3
 #카페스타그램은 해당 카페의 분위기와 시그니처 메뉴같은 대략의 데이터를 내포하고 있습니다.  
@@ -41,7 +41,7 @@ __Instagram crawling, MongDB,Flask, AWS, Multinominal Naive Bayes, Google Vision
 인스타그램은 ip, id를 기반으로 수상한 유저를 검출하여 접근을 막습니다. 
 우리는 boto3, AWS를 통해 ip를 우회하여 크롤링을 진행하였습니다.
 
-<img src="https://user-images.githubusercontent.com/42338386/106738618-7ff8c900-665b-11eb-9abc-f042b629643f.png" width='50%'>
+<img src="https://user-images.githubusercontent.com/42338386/106738618-7ff8c900-665b-11eb-9abc-f042b629643f.png" width='70%'>
 
 
 ### 이미지에서 카페 패턴, 분위기 검출 | Google Vision API, MultinominalNaive Bayes 모델  

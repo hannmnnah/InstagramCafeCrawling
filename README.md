@@ -45,7 +45,7 @@ __Instagram crawling, MongDB,Flask, AWS, Multinominal Naive Bayes, Google Vision
 
 
 ### 이미지에서 카페 패턴, 분위기 검출 | Google Vision API, Multinominal Naive Bayes 모델  
-이미지의 패턴을 ~하기 위해 Google Vision API를 통해 이미지 Labels를 추출하였습니다.
+카페 별 게시글 패턴을 분류하기 위해 Google Vision API를 통해 이미지 Labels를 추출하였습니다.
 추출된 Labels는 Naive Bayes 모델을 통해 View 맛집과 Menu 맛집으로 분류하였습니다.
 
 ### 서울 카페 지도 | HTML, Flask, Kakao map API

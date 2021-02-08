@@ -51,7 +51,7 @@ __Instagram crawling, MongDB,Flask, AWS, Multinominal Naive Bayes, Google Vision
 ### 서울 카페 지도 | Flask, Kakao map API
 kakao map api를 통해 만든 html페이지를 Flask로 구현하였습니다. 
 
-## 카페 챗봇 | Flask, Slack API 
+### 카페 챗봇 | Flask, Slack API 
 Slack api를 통해  Flask로 구현하였습니다. 
    
 

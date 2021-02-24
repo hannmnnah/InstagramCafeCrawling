@@ -52,9 +52,9 @@ __Instagram crawling, MongDB,Flask, AWS, Multinominal Naive Bayes, Google Vision
 kakao map api를 활용하여 지도에 마커를 추가하고 카페 위경도와 대표메뉴, 영업시간 등을 입력하였습니다,또한 마우스 클릭시 팝업창을 띄우는 코드를 구현하였습니다. 
 
 ### 카페 챗봇 | Flask, Slack API 
-Slack api와 flask 사용하여 슬랙메시지로 지역명과 명령문(뷰맛집, 디저트맛집) 입력시 카페명을 알려주는 코드를 구현하였습니다. <br>
+Slack api와 flask 사용하여 슬랙메시지로 지역명과 명령문(뷰맛집, 디저트맛집) 입력시 카페명을 알려주는 코드를 구현하였습니다. <br><br><br>
    
-## 기여자
+## Built with
 * 김경한 https://github.com/darenkim
 * 방희란 https://github.com/Heeran-cloud
 * 장한아 https://github.com/hannmnnah

@@ -54,7 +54,7 @@ kakao map api를 활용하여 지도에 마커를 추가하고 카페 위경도�
 ### 카페 챗봇 | Flask, Slack API 
 Slack api와 flask 사용하여 슬랙메시지로 지역명과 명령문(뷰맛집, 디저트맛집) 입력시 카페명을 알려주는 코드를 구현하였습니다.
    
-#### 기여자
+### 기여자
 * 김경한 https://github.com/darenkim
 * 방희란 https://github.com/Heeran-cloud
 * 장한아 https://github.com/hannmnnah
